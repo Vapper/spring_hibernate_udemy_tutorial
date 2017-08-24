@@ -1,0 +1,9 @@
+p {
+	font: x-small;
+	background-color: lime;
+}
+
+.error{
+	color:red;
+	font-weight: bold;
+}
